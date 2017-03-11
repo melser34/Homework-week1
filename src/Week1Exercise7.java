@@ -4,8 +4,7 @@ import java.util.Scanner;
  * Created by set on 11.03.2017.
  */
 //    3.7 Вводим два числа, если одно из них делиться на другое без остатка, то выводим тру и показываем результат деления
-public class WeekExercise7 {
-
+public class Week1Exercise7 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Please enter some value");
